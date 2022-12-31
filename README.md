@@ -2,7 +2,7 @@
 
 Este humilde proyecto hace una CUENTA REGRESIVA para esperar el Año Nuevo en HTML, CSS y JavaScript.
 
-El proyecto debería estar publicado en [este enlace](https://doneber.github.io/new-year-countdown-clock/)
+El proyecto debería estar publicado en [este enlace](https://doneber.github.io/digital-countdown-clock/)
 
 Púedes ver como lo hice en este [video](https://youtu.be/o5bawqBDLKk): [![](https://img.shields.io/youtube/views/o5bawqBDLKk?color=%23333&label=YouTube&style=social)](https://youtu.be/o5bawqBDLKk)
 
